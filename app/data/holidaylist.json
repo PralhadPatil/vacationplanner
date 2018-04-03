@@ -1,0 +1,34 @@
+{
+  "holidayList": [
+    {
+      "from": "28 Feb",
+      "to": "3 March",
+      "noOfDays": 5,
+      "noOfLeaves": 2
+    },
+    {
+      "from": "28 Feb",
+      "to": "3 March",
+      "noOfDays": 5,
+      "noOfLeaves": 2
+    },
+    {
+      "from": "28 Feb",
+      "to": "3 March",
+      "noOfDays": 5,
+      "noOfLeaves": 2
+    },
+    {
+      "from": "28 Feb",
+      "to": "3 March",
+      "noOfDays": 5,
+      "noOfLeaves": 2
+    },
+    {
+      "from": "28 Feb",
+      "to": "3 March",
+      "noOfDays": 5,
+      "noOfLeaves": 2
+    }
+  ]
+}
